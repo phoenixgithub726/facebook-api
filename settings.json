@@ -1,0 +1,17 @@
+{
+    "VERSION": "0.1.0",
+    "LASTUPDATE": "2020-05-01",
+    "AUTHOR": "dailer.hurtado0321@gmail.com",
+    "LOG": "True",
+    "BACKEND_URL": "http://localhost:8000/",
+    "LOG_PATH": "/logs",
+    "CHROMEDRIVER": "/chromedriver/chromedriver.exe",
+    "FACEBOOK": "https://www.facebook.com/",
+    "FACEBOOK_PASSWORD": "phoenixstar19920726",
+    "FACEBOOK_USER": "dailer.hurtado0321@gmail.com",
+    "MYSQL_HOST":"localhost",
+    "MYSQL_USER":"root",
+    "MYSQL_PASS":"",
+    "MYSQL_DB":"facebook",
+    "MYSQL_TB":"pages"
+}
